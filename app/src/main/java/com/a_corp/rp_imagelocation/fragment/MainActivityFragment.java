@@ -65,18 +65,6 @@ import java.net.URL;
  *
  */
 
-//MM_Notes:
-
-//COMPLETED - 6/13/16: 1- (For View.OnClickListener ) lat/long is currently set to my location. Verified correct images  are returned via:https://www.flickr.com/map
-//COMPLETED - 6/14/16: 2 - Cleanup Code
-//COMPLETED - 6/14/16: 3 - Parameterize Values
-//COMPLETED - 6/15/16: 4 - REQ: Using the GridViewLayout sample code as a basis, allow photos in the list to be tapped which will display the photo full screen in new view.
-//COMPLETED - 6/16/16: 5 - Cleanup Code
-//COMPLETED - 6/16/16: 6 - REQ: Incorporate custom animation
-//COMPLETED - 6/16/16: 7 - In OnActivityCreated, set a toast indicating that we cannot find user's location
-//COMPLETED - 6/16/16: 8 - Add additional Exception handling
-//COMPLETED - 6/16/16: 9 - Run Lint Checks
-//COMPLETED - 6/16/16: 10 - Test against both SGS4 and SGS6
 
 public class MainActivityFragment extends Fragment implements LocationListener{
 
