@@ -66,6 +66,7 @@ import java.net.URL;
  */
 
 //MM_Notes:
+
 //COMPLETED - 6/13/16: 1- (For View.OnClickListener ) lat/long is currently set to my location. Verified correct images  are returned via:https://www.flickr.com/map
 //COMPLETED - 6/14/16: 2 - Cleanup Code
 //COMPLETED - 6/14/16: 3 - Parameterize Values
